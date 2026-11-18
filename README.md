@@ -1,2 +1,2 @@
-# PIBIT-interface-c-rebro-m-quina
+# PIBIT-interface-cerebro-maquina
 Repositório com os dados e arquivos coletados da pesquisa "Interface-Cérebro-Máquina" envolvendo "Muse S Athena" e "Unitree Go2"
